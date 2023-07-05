@@ -1,7 +1,7 @@
 # 0Day_3xp
 
 
-<div id="badges">
+<div id="badges"  align="left">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +13,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Aakash9111&style=flat-square&color=blue" alt=""/>
+
 ## TryHackMe
 <div id="header" align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Aakash9111.png" alt="TryHackMe">
