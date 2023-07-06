@@ -14,7 +14,7 @@
   
 </div>
 <div   align="center" >
-<img src="https://komarev.com/ghpvc/?username=Aakash9111&style=flat-square&color=blue" alt=""/>  
+<img src="https://komarev.com/ghpvc/?username=Aakash9111&style=flat-square&color=blue"  alt=""/>  
 </div>
 
 ## TryHackMe
