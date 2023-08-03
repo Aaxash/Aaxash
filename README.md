@@ -23,4 +23,4 @@
 </div>
 
 ## HackTheBox
-![Arrexel](https://www.hackthebox.com/badge/image/472788)
+
