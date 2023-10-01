@@ -19,12 +19,11 @@
 </div>
 
 ## TryHackMe
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Aakash9111.png" alt="TryHackMe">
 </div>
 
 ## HackTheBox
-<div id="header" align="center">
 ![Arrexel](https://www.hackthebox.com/badge/image/472788)  
-</div>
+
 
