@@ -24,5 +24,7 @@
 </div>
 
 ## HackTheBox
+<div id="header" align="center">
+![Arrexel](https://www.hackthebox.com/badge/image/472788)  
+</div>
 
-![Arrexel](https://www.hackthebox.com/badge/image/472788)
