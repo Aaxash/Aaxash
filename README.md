@@ -11,12 +11,12 @@
   
 </div>
 
-<div   align="center" >
+<div align="center" >
 <img src="https://komarev.com/ghpvc/?username=Aakash9111&style=flat-square&color=blue"  alt=""/>  
 </div>
 
 ## TryHackMe
-<div id="header" align="left">
+<div align="center" id="header" >
   <img src="https://tryhackme-badges.s3.amazonaws.com/Aakash9111.png" alt="TryHackMe">
 </div>
 
