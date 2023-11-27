@@ -20,8 +20,10 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Aakash9111.png" alt="TryHackMe">
 </div>
 <div>
-   ![Arrexel](https://www.hackthebox.com/badge/image/472788) 
+  
+  ![Arrexel](https://www.hackthebox.com/badge/image/472788) 
 </div>
+   
 
 
  
