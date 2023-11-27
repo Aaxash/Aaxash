@@ -29,13 +29,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm Hardik Sharma <br><br>- 🔭 I’m working as Software Engineer <br>- 📚 I'm currently learning Flutter <br>- ⚡ In my free time I like to explore the cyber world</p>
-
-###
 
  
 
