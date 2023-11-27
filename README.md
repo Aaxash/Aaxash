@@ -17,10 +17,12 @@
 
 
 <div align="center" id="header" >
+  
   <img src="https://tryhackme-badges.s3.amazonaws.com/Aakash9111.png" alt="TryHackMe">
+  ![Arrexel](https://www.hackthebox.com/badge/image/472788) 
 </div>
 
 
-![Arrexel](https://www.hackthebox.com/badge/image/472788)  
+ 
 
 
