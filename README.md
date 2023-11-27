@@ -1,4 +1,5 @@
 <div  align="center">
+  <h1 align="center">Hey There</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/aakash-dubey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,9 +26,8 @@
   ![Arrexel](https://www.hackthebox.com/badge/image/472788) 
 </div>
    
-<h1 align="center">Hey There 👋</h1>
 
-###
+
 
 
 
