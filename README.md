@@ -22,7 +22,8 @@
 </div>
 
 <div align="center">
-
+  
+  ![Arrexel](https://www.hackthebox.com/badge/image/472788) 
 </div>
    
 
