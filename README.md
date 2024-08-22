@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="">
-    ![Bugcrowd](https://a11ybadges.com/badge?logo=bugcrowd)
+    <img src="https://a11ybadges.com/badge?logo=bugcrowd"/>
   </a>
 </div>
   
