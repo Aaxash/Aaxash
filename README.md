@@ -14,13 +14,13 @@
   
 </div>
 
- <a href="https://bugcrowd.com/Aaxashhh" style="display: block;height: 50px;">
-    <img src="https://a11ybadges.com/badge?logo=bugcrowd" alt="bugcrowd Badge"/>
-  </a>
+
 
 
 <div align="center" id="header">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Aakash9111.png" alt="TryHackMe">
+  <a href="https://bugcrowd.com/Aaxashhh" style="display: block;height: 50px;">
+    <img src="https://a11ybadges.com/badge?logo=bugcrowd" alt="bugcrowd Badge"/>
+  </a>
 </div>
 
 <div align="center">
