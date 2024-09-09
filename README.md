@@ -23,10 +23,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://www.hackthebox.com/badge/image/472788"/>
-</div>
-   
 
 
 
