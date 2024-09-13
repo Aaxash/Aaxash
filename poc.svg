@@ -1,4 +1,7 @@
-<svg width="500" height="500" viewBox="0 0 124 124" >
-<rect width="124" height="500" rx="" />
-   <text x="30" y="65" fill="green">Defaced</text>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="lightblue"/>
+  
+  <!-- Text -->
+  <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="1px" dy=".3em" font-size="14">Text</text>
 </svg>
